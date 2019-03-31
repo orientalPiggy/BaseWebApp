@@ -15,6 +15,8 @@ body {
   background-size:     cover;                     
   background-repeat:   no-repeat;
   background-position: center left;  
+  width: 1700px ;
+  margin: left;
   opacity: 0.8;
   z-index: -1;
   text-align: center; 
@@ -70,6 +72,7 @@ h1 {
 p {
   font-family: "Helvetica Neue";
   font-size: 30px;
+  color: lightgrey
 }
 
 /* #demo{
@@ -108,7 +111,7 @@ h4 {
 .queen-of-computers {
   width: 300px;
   margin: 50px auto;
-  border-radius: 50%;
+  /* border-radius: 50%; */
   display: block;
 }
 
